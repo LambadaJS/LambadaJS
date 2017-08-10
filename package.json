@@ -1,0 +1,22 @@
+{
+  "name": "Lambada",
+  "version": "0.0.0",
+  "description": "A function programming lib that extends native function",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "munizart",
+  "bugs": {
+    "url": "https://github.com/LambadaJS/LambadaJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LambadaJS/LambadaJS.git"
+  },
+  "homepage": "https://github.com/LambadaJS/LambadaJS#readme",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^20.0.4"
+  }
+}
